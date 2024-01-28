@@ -1,6 +1,6 @@
 # Fabriclagbe manual testing(Test plan, Schedule, Mindmaps, Test cases, Jira & Test Metrix)
 
-In this ecourier manual testing project, I covered the topics **Test Plans**, **Test Schedules**, **Mindmaps**, **Test Cases**, **Reports**, and **JIRA**
+In this Fabriclagbe manual testing project, I covered the topics **Test Plans**, **Test Schedules**, **Mindmaps**, **Test Cases**, **Reports**, and **JIRA**
 
 
 # **Table of Contents:**
